@@ -7,5 +7,5 @@
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
 
 \f0\fs22 \cf2 \expnd0\expndtw0\kerning0
-Git is a version control system.\
+Git is a distributed version control system.\
 Git is a free software.}
