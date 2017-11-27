@@ -13,4 +13,5 @@ Git is a distributed version control system.\
 Git is a free software distributed under the GPL.\
 \pard\pardeftab720\partightenfactor0
 
-\f1\fs24 \cf3 \cb4 Git has a mutable index called stage.}
+\f1\fs24 \cf3 \cb4 Git has a mutable index called stage.
+Creating a new branch is quick.}
